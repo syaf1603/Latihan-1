@@ -5,7 +5,7 @@
 -item-2
 -sub-item-3
 -sub-item-4
-+ item-3
++item-3
 + sub-item-5
 + sub-item-6
 # ordered list:
