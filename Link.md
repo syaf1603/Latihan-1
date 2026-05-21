@@ -6,4 +6,4 @@ https://github.com
 
 [GitHub](1)
 
-(1):https://github.com
+https://github.com
