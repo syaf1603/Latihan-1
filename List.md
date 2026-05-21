@@ -2,10 +2,10 @@
 * Item-1
 * sub-Item-1
 * sub-Item-2
--item-2
--sub-item-3
--sub-item-4
-+item-3
+- item-2
+- sub-item-3
+- sub-item-4
++ item-3
 + sub-item-5
 + sub-item-6
 # ordered list:
