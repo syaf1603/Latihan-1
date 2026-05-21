@@ -1,1 +1,1 @@
-![GitHub Logo] (GitHub-Logo.png "GitHub")
+![GitHub Logo](GitHub-Logo.png "GitHub")
